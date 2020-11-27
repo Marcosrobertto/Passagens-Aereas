@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\bin\Debug\netcoreapp3.1\Passagens.exe
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\bin\Debug\netcoreapp3.1\Passagens.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\bin\Debug\netcoreapp3.1\Passagens.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\bin\Debug\netcoreapp3.1\Passagens.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\bin\Debug\netcoreapp3.1\Passagens.dll
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\bin\Debug\netcoreapp3.1\Passagens.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.dll
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\Passagens\obj\Debug\netcoreapp3.1\Passagens.genruntimeconfig.cache
